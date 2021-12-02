@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="spring-annotations"/>
+			<item value="spring-dependency-injection"/>
+			<item value="jenkins"/>
+			<item value="MockitoA"/>
+			<item value="MockitoL"/>
+			<item value="Mockito_"/>
+			<item value="Mokito_"/>
+			<item value="Mockito2"/>
+			<item value="Mockito1"/>
+			<item value="WebTest"/>
+			<item value="Demo1"/>
+			<item value="Smartbear"/>
+			<item value="Demo123"/>
+			<item value="WebtestDriver"/>
+			<item value="WebdriverTest"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="spring-annotations"/>
+			<item value="spring-dependency-injection"/>
+			<item value="jenkins"/>
+			<item value="MockitoA"/>
+			<item value="MockitoL"/>
+			<item value="Mockito_"/>
+			<item value="Mokito_"/>
+			<item value="Mockito2"/>
+			<item value="Mockito1"/>
+			<item value="WebTest"/>
+			<item value="Demo1"/>
+			<item value="Smartbear"/>
+			<item value="Demo123"/>
+			<item value="WebtestDriver"/>
+			<item value="WebdriverTest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="720" key="x"/>
+		<item value="0" key="y"/>
+		<item value="836" key="height"/>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Selenium\Mockito1\src\main\java\Mokito5\TestList.java"/>
+			<item value="D:\Selenium\Smartbear"/>
+			<item value="D:\Selenium\WebtestDriver\src\main\java\dataTable\RunTest.java"/>
+			<item value="D:\Selenium"/>
+			<item value="D:\Selenium\Autoj"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

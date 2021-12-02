@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <h1>APPLICATION FORM</h1>
+    <label>1.First Name</label><br></br>
+    <input type ="text" placeholder="Enter your name here"><br><br>
+    <label>2.Father's Name</label><br><br>
+    <input type ="text" placeholder="Enter your Father's name here"><br><br>
+    <label>3.Mother's Name </label><br><br>
+    <input type ="text" placeholder="Enter your Mother's name here"><br><br>
+    <br>
+    <label>4.Education Qualifications</label><br>
+    <input type ="radio" > <!-- can select more than on option if 'name' is not used-->
+    <label>B.Tech</label>
+    <input type ="radio" >
+    <label>M.Tech</label>
+    <input type ="radio" >
+    <label>Phd</label><br><br>
+    <label>5.Gender</label><br>
+    <label>Male</label><br><br>
+    <input type ="radio" name ="X"><!--can only one option if 'name' is used-->
+    <label>Female</label>
+    <input type ="radio" name ="X"><br><br>
+    <label>6.Date of Birth</label><br>
+    <input type="date" min="1990-01-01" max="2020-01-01"><br><br> <!--'min' and 'max' is used to specify the range-->
+    <label>7.Email</label><br>
+    <input type="text"><br><br>
+    <label>8.Hobbies</label><br>
+    <input type="text"><br><br>
+    <label>9.Upload resume</label><br>
+    <input type="file" accept=".pdf"><br><br> <!--'accept' is used only to accept specific file formats-->
+    <Label>10.Quantity &nbsp;</Label>
+    <input type="number" min="0" max="99"><br><br><br><br>
+    
+    <label>Payment :&nbsp;&nbsp;  </label><br><!--'&nbsp;' is to give space-->
+    <select id = "Payment"><br><br> 
+        <option >VISA</option>
+        <option value="Mastercard">MASTERCARD</option>
+        <option value="Cheque">CHEQUE</option><br>
+    </select><br><br>
+    <label>Card Number :</label>
+    <input type="text" placeholer="Enter ypur card number"><br><br><br><br>
+    <input type="submit"><input type="reset">
+
+    </form>
+</body>
+</html>
